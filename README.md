@@ -1,0 +1,2 @@
+# A-Hybrid-Hierarchial-Attention-Network-for-Multimodal-Reconstruction-Aphasia-Diagnosis
+Thisrepo proposes a Hybrid Hierarchical Attention Network (HHAN) for multimodal classification and reconstruction of voice and text in context of diagnosing aphasia disability. By combining textual, visual, and auditory information,  HHAN aims to provide a comprehensive assessment of aphasic disabled individuals.  
